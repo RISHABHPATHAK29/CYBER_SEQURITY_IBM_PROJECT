@@ -23,12 +23,12 @@ To get started with this project, follow these steps:
 ## Prerequisites
 
 - Python 3.x
-- [Additional dependencies list]
+- pynput
 
 ## Usage
 
-1. [Explain how to run the keylogger script]
-2. [Describe how to stop the keylogger and access the logged data]
+1. RUN COMAND IN PYTHON IDE
+2.  the keylogger and access the logged data BY LOG FILE
 
 ## Disclaimer
 
